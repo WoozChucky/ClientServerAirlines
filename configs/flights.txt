@@ -1,0 +1,3 @@
+3 coimbra porto 5 9
+1 santarem praga 3 10
+2 praga lisboa 0 11

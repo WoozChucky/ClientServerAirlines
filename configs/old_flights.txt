@@ -1,0 +1,2 @@
+1 lisboa porto 5 7
+2 praga santarem 5 7
